@@ -1,3 +1,3 @@
-# One month rails Phil
+# One month rails
 
-This is first pin app
+Read me
